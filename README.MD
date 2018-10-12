@@ -3,9 +3,9 @@
 # Problem Statement
 
 Natural disasters such as floods, earthquakes, hurricanes etc. are often accompanied by interruption in routine activity.These interruptions create a significant amount of incovenience for society,leading to both monetary loss and loss of life.
-India has lost 79.5 billion USD in the last 20 years and 43.4% of it was accounted for by floods. Solutions to disaster management can help maintain the natural direction of a nation's economy. New challenges created by these disaster scenarios demand solutions tailored to them. Principal challenges faced by individuals in disaster areas include - lack of mobility, inability to communicate and lack of access to essential resources and incoherent rescue efforts.
+India has lost 79.5 billion USD in the last 20 years and 43.4% of it was accounted for by floods. Solutions to disaster management can help maintain the natural direction of a nation's economy. New challenges created by these disaster scenarios demand solutions tailored to them. Principle challenges faced by individuals in disaster areas include - lack of mobility, inability to communicate and lack of access to essential resources and incoherent rescue efforts.
 
-Since disaster often alter urban and rural landscapes, routes suggested by existing routing applications may not be feasable to traverse in a disaster scenario. Also, good samaritans with access to vital resources - food, water, clothes, shelter etc. can provide necessary help to disaster victims. However, there exists a communication gap between them. The objective of our project is to tackle the mentioned issues to help support individuals in these disaster scenarios.
+Since disaster often alter urban and rural landscapes, routes suggested by existing routing applications may not be feasible to traverse in a disaster scenario. Also, good samaritans with access to vital resources - food, water, clothes, shelter etc. can provide necessary help to disaster victims. However, there exists a communication gap between them. The objective of our project is to tackle the mentioned issues to help support individuals in these disaster scenarios.
 
 # Proposed Solution
 
